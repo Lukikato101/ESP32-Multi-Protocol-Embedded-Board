@@ -1,104 +1,66 @@
 # Multi-Protocol ESP32-Based Embedded Board
 
-## Project Summary
-This project is a compact embedded hardware design built around the ESP32 platform and developed in KiCad. It is intended for flexible, wireless, and multi-protocol applications where a small but capable controller board is needed. The design focuses on clean PCB structure, modular connectivity, and practical expandability.
+## Project Overview
+This project is my personal embedded hardware design built around the ESP32 platform. I created this board as a compact and flexible prototype for wireless and connected applications. The design is made in KiCad and focuses on a clean PCB structure, practical connectivity, and room for future development.
 
-For recruiters, this project demonstrates more than just circuit design. It shows the ability to translate an idea into a structured electronic system, think about hardware architecture, and produce a board that is realistic, testable, and suitable for future product development.
-
----
-
-## Why This Project Matters
-This board was created as a practical embedded platform for projects that require:
-
-- Wireless connectivity
-- Flexible input/output access
-- Easy expansion through connectors
-- A compact and organized PCB layout
-- A foundation for IoT, automation, or robotics applications
-
-In simple terms, this project shows that I can design a controller board that is both functional and ready for real-world use.
+I made this project to improve my understanding of embedded systems, PCB design, and hardware prototyping. It also helped me practice turning an idea into a more structured and realistic electronic board.
 
 ---
 
-## What the Project Includes
-The design is centered around an ESP32-based module and several connector interfaces that allow external modules, sensors, or peripherals to be connected easily.
+## What I Built
+This board is centered around an ESP32-based module and several connector interfaces that allow me to connect external components or modules when needed. The layout is simple, organized, and intended to be useful for experimentation and further development.
 
-### Key Hardware Elements
-- ESP32-based wireless controller module
-- Multiple connector headers for expansion and interfacing
+### Main Parts of the Project
+- ESP32-based controller module
+- Connector headers for expansion and external connections
 - PCB layout designed for practical routing and assembly
-- A structure suitable for embedded system prototyping and development
-
-### What This Means Practically
-- The board can serve as a core unit for connected devices
-- It supports rapid prototyping for embedded systems
-- It provides a clean base for future upgrades and feature additions
+- A compact hardware platform for embedded projects
 
 ---
 
-## Visual Overview
+## Why I Made This Project
+I wanted to build a small hardware platform that could be used as a base for future electronics projects. This board gives me a starting point for testing ideas, connecting modules, and exploring how embedded systems can be designed in a more complete way.
 
-### 1. PCB Layout View
-<img src="Projects%20Image/multiprotocol%20ESP32-C6.svg" alt="PCB layout of the ESP32-based embedded board" width="900">
-
-### 2. Board Visualization
-<img src="Projects%20Image/Screenshot%202026-06-29%20130004.png" alt="Top view of the board design" width="900">
-
-### 3. Additional Design View
-<img src="Projects%20Image/Screenshot%202026-06-29%20130024.png" alt="Additional perspective of the board design" width="900">
+This project is especially useful for:
+- learning embedded hardware design
+- building wireless-based prototypes
+- testing ideas before making a larger product
+- improving my PCB and circuit layout skills
 
 ---
 
-## Technical Highlights
+## Project Images
 
-### Embedded Design Focus
-- Built around a powerful microcontroller platform
-- Suitable for Wi-Fi and Bluetooth-based applications
-- Designed with scalability in mind
+### PCB Layout
+<img src="Projects%20Image/multiprotocol%20ESP32-C6.svg" alt="PCB layout of the embedded board" width="900">
 
-### PCB Design Focus
-- Organized component placement
-- Clear routing strategy for a compact board
-- Modular connector approach for flexibility
+### Board View 1
+<img src="Projects%20Image/Screenshot%202026-06-29%20130004.png" alt="Board design view" width="900">
 
-### Engineering Value
-This project reflects strong foundational engineering thinking:
-- Hardware planning
-- Component integration
-- Board-level organization
-- Design for future development
+### Board View 2
+<img src="Projects%20Image/Screenshot%202026-06-29%20130024.png" alt="Additional board design view" width="900">
 
 ---
 
-## Skills Demonstrated
-This project highlights a strong mix of technical and problem-solving skills:
-
-- Embedded systems design
-- PCB schematic and layout development
-- KiCad-based hardware design
-- Component selection and board planning
-- Creating practical electronics for real applications
-- Translating an idea into a manufacturable hardware concept
+## What I Learned
+Through this project, I improved my understanding of:
+- embedded system architecture
+- PCB schematic and layout design
+- component placement and routing
+- hardware organization for practical use
+- building a project from concept to board design
 
 ---
 
-## Recruiter-Friendly Summary
-If I were to describe this project in one sentence for a hiring manager, it would be:
-
-This project demonstrates my ability to design and structure an embedded hardware platform that is compact, practical, and ready for wireless and connected applications.
-
----
-
-## Future Potential
-This board can be extended in several directions:
-
-- Add power management circuits
-- Integrate sensors and actuators
-- Support more communication protocols
-- Develop it into a full product prototype
-- Prepare it for testing and validation
+## Future Development
+I can continue developing this project by:
+- adding power management features
+- integrating sensors or actuators
+- supporting more communication interfaces
+- turning it into a more complete prototype
+- testing it in real applications
 
 ---
 
 ## Conclusion
-This project is a solid example of hands-on electronics development. It combines embedded hardware thinking, PCB design practice, and a clear path toward real-world application. It is especially valuable for roles in embedded systems, electronics engineering, hardware design, IoT, or robotics.
+This project is an important part of my learning in electronics and embedded hardware. I built it as a personal prototype to strengthen my skills and create a solid foundation for future projects.

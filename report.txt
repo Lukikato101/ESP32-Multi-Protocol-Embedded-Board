@@ -1,0 +1,3 @@
+Plotted to 'C:\Sofian's Projetcs (Please jangan dihapus)\EcoBot-Autonomous-Trash-Collector-master\Embeddeds\multiprotocol ESP32-C6\multiprotocol ESP32-C6.svg'.
+Info: Done.
+Info: Done.
